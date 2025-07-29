@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "お墓のお手入れでお悩みのお客様に代わり、真心を込めてお墓掃除・墓石洗浄。写真付き報告書で、遠方でも安心してご確認いただけます。",
   keywords: "墓石清掃,墓石クリーニング,お墓掃除,関東,手作業,石材清掃",
   verification: {
-    google: "　　　",
+    google: "djr6NXFXfxma-afCQk1pwcGBjjzhUsEdKdiYAl_nQFQ",
   },
   // ▼▼▼ ここから追加・修正 ▼▼▼
   icons: {
